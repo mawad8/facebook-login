@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #e1f1f1;
+}
+.fb{
+	background-color: #0b1480;
+	color: white;
+	height: 90px;
+	text-align: center;
+}
+div.fb h1{
+	font-family: 'Patua One', cursive;
+	padding: 20px 0;
+	font-size: 50px;
+}
+div.fb span{
+	font-family: 'Rajdhani', sans-serif;
+	font-size: 35px;
+}
+.mobile{
+	border: 2px solid #b2bd01;
+	border-radius: 10px;
+	background-color: #fff934e3;
+	color: #1a077f;
+	height: 70px;
+	margin-top: 2%;
+	
+}
+.mobile i{
+	font-size: 30px;
+	padding: 20px 15px;
+}
+.text1{
+margin-top: 5%;
+}
+.text1 input {
+	display: block;
+	padding: 10px;
+	margin-left: 30px;
+	width: 90%;
+}
+.text1 button {
+	border: none;
+	border-radius: 20px;
+	width: 90%;
+	margin-left: 30px;
+	height: 40px;
+	background-color: #2367ce;
+	color: white;
+	font-size: 18px;
+	font-family: 'Roboto Mono', monospace; 
+	margin-top: 2%;
+
+
+}
+.or
+{
+	text-align: center;
+	font-weight: 300;
+	font-size: 20px;
+	margin-top: 2%;
+}
+.f1{
+	text-align: center;
+}
+.f1 button{
+	background-color: #15800ecc;
+	color: white;
+	padding: 10px;
+	border-radius: 20px;
+	margin-top: 2%;
+}
+.f1 p{
+	margin-top: 3%;
+}
